@@ -1,2 +1,2 @@
 # snake
-Snake made with HTML5.
+Snake made with HTML, CSS and JS.
